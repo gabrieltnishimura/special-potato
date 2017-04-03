@@ -1,0 +1,21 @@
+{
+  "name": "special-potato",
+  "version": "1.0.0",
+  "description": "Chatbot API interface with Node.JS",
+  "author": "Gabriel Takaoka Nishimura <gabrieltnishimura@gmail.com>",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "chatbot",
+    "api.ai"
+  ],
+  "dependencies": {
+    "express": "^4.15.x",
+    "request": "^2.81.0"
+  },
+  "preferGlobal": true,
+  "private": true,
+  "analyze": true,
+  "license": "Apache 2.0"
+}
